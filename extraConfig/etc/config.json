@@ -1,6 +1,13 @@
 {
-	"Demo01": {
-		"test01": "HelloWorld",
-		"test02": "My World"
+	"PagerDuty": {
+		"url": "",
+		"token": "",
+		"domain": "",
+		"default_svc": "",
+		"default_scheduler": ""		
+	},
+
+	"Slack": {
+		"default_user": ""
 	}
 }

@@ -1,0 +1,10 @@
+[Core]
+Name = UtilsFunc
+Module = utilsfunc
+DependsOn = ExtraConfig
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Plugin for common functions

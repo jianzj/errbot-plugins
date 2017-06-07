@@ -1,0 +1,10 @@
+[Core]
+Name = PagerDuty
+Module = pagerduty
+DependsOn = ExtraConfig, UtilsFunc
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Plugin for PagerDuty
